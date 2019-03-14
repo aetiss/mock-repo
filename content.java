@@ -1,4 +1,5 @@
-public class Cfnvwc {
+public class Cpbfvc {
     public static void main() {
+        System.out.println("bkhqy");
     }
 }

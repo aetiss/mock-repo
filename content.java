@@ -1,5 +1,5 @@
-public class Cyxnug {
+public class Csupdx {
     public static void main() {
-        System.out.println("vcevu");
+        System.out.println("stvlx");
     }
 }
